@@ -1,9 +1,9 @@
-PWD e:/work/latex/source_code/java/HashMap
+PWD c:/work/git/heylichen/LatexNote/java/HashMap
 INPUT c:/texlive/2020/texmf.cnf
 INPUT c:/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT e:/work/latex/source_code/java/HashMap/HashMap.tex
-OUTPUT e:/work/latex/source_code/java/HashMap/HashMap.log
+INPUT c:/work/git/heylichen/LatexNote/java/HashMap/HashMap.tex
+OUTPUT c:/work/git/heylichen/LatexNote/java/HashMap/HashMap.log
 INPUT c:/texlive/2020/texmf-dist/tex/latex/ctex/ctexbook.cls
 INPUT c:/texlive/2020/texmf-dist/tex/latex/ctex/ctexbook.cls
 INPUT c:/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
@@ -149,9 +149,9 @@ INPUT c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
 INPUT c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
 INPUT c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
 INPUT c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
-INPUT e:/work/latex/source_code/java/HashMap/HashMap.aux
-INPUT e:/work/latex/source_code/java/HashMap/HashMap.aux
-OUTPUT e:/work/latex/source_code/java/HashMap/HashMap.aux
+INPUT c:/work/git/heylichen/LatexNote/java/HashMap/HashMap.aux
+INPUT c:/work/git/heylichen/LatexNote/java/HashMap/HashMap.aux
+OUTPUT c:/work/git/heylichen/LatexNote/java/HashMap/HashMap.aux
 INPUT c:/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 INPUT c:/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
@@ -195,7 +195,7 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
-OUTPUT e:/work/latex/source_code/java/HashMap/HashMap.pdf
+OUTPUT c:/work/git/heylichen/LatexNote/java/HashMap/HashMap.pdf
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/times/ptmb7t.vf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/times/zptmcm7m.vf
@@ -234,7 +234,7 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/vf/adobe/times/zptmcm7y.vf
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
-INPUT e:/work/latex/source_code/java/HashMap/HashMap.aux
+INPUT c:/work/git/heylichen/LatexNote/java/HashMap/HashMap.aux
 INPUT c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb

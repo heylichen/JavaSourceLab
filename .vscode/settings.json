@@ -1,0 +1,11 @@
+{ 
+    "files.exclude": { 
+        "**/*.aux": true,  
+        "**/*.meta": true, //隐藏所有meta文件
+        "**/*.log": true,  
+        "**/*.fdb_latexmk": true,  
+        "**/*.fls": true,
+        "**/*.synctex.gz": true,
+        "**/*.pdf": true
+    }
+}
