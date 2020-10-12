@@ -1,22 +1,13 @@
 \documentclass[a4paper,12pt]{article}
-\usepackage{clrscode3e}		%clrs package
-\usepackage{graphicx,wrapfig}
 \usepackage[english]{babel}
-%------------------------------------------
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{clrscode3e}		%clrs package
 \begin{document}
-%------------------------------------------
-dedeeeeeeee
-\begin{wrapfigure}{r}{0.5\textwidth} 
-   \begin{center}
-    \includegraphics[width=0.48\textwidth]{rb_sample.png}
-   \end{center}
-   \vspace{-20pt}
-   \caption{\noindent{The} simple delete cases .  } 
-   \label{rb_delete_cases_single} 
-   \vspace{-10pt}
- \end{wrapfigure}
-%------------------------------------------
-\begin{codebox}
+\begin{figure}[ht]
+  \begin{minipage}[b]{0.45\linewidth}
+  \centering
+  \begin{codebox}
     \Procname{$\proc{rb-delete}(T,z)$} 
     \li    $y \gets z$
     \li    $\id{y-original-color} \gets \attrib{y}{color}$
@@ -46,9 +37,17 @@ dedeeeeeeee
     \li       \Then $\proc{rb-delete-fixup}(\attrib{T}{x})$
     \End
 \end{codebox}
-\vspace{20pt}
-\par
-This is where the table goes with text wrapping around it. You may 
+  \label{fig:figure1}
+  \end{minipage}
+  \hspace{2cm}
+  \begin{minipage}[b]{0.45\linewidth}
+  \centering
+  \includegraphics[width=\textwidth]{rb_delete_cases_single.pdf}
+  \caption{default}
+  \label{fig:figure2}
+  \end{minipage}
+  \end{figure}
+  This is where the table goes with text wrapping around it. You may 
 embed tabular environment inside wraptable environment and customize as you like.
 
 Most gulls, particularly Larus species, are ground nesting carnivores,
@@ -57,12 +56,4 @@ often includes crabs and small fish. Apart from the kittiwakes, gulls
 are typically coastal or inland species, rarely venturing far out to sea.
 The large species take up to four years to attain full adult plumage,
 but two years is typical for small gulls.
-
-Gulls — the larger species in particular — are resourceful and
-highly-intelligent birds, demonstrating complex methods of communication
-and a highly-developed social structure. Certain species (e.g. the
-Herring Gull) have exhibited tool use behaviour. Many species of gull
-have learned to co-exist successfully with man and have thrived in
-human habitats. Others rely on kleptoparasitism to get their food.
-%------------------------------------------
 \end{document}
