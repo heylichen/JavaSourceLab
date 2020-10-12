@@ -1,0 +1,766 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.6.19)  11 OCT 2020 11:40
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**e:/work/latex/algorithms/RedBlackTree/red_black.tex
+(e:/work/latex/algorithms/RedBlackTree/red_black.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (c:/texlive/2020/texmf-dist/tex/latex/ctex/ctexbook.cls (c:/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-03-06 L3 programming layer (loader) 
+ (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count167
+\l__pdf_internal_box=\box45
+))
+Document Class: ctexbook 2019/05/29 v2.4.16 Chinese adapter for class book (CTEX)
+(c:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count168
+\g__xparse_grabber_int=\count169
+\l__xparse_m_args_int=\count170
+\l__xparse_v_nesting_int=\count171
+) (c:/texlive/2020/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-03-06 LaTeX2e option processing using LaTeX3 keys
+) (c:/texlive/2020/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2019/05/29 v2.4.16 Document and package hooks (CTEX)
+) (c:/texlive/2020/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2019/05/29 v2.4.16 Patching commands (CTEX)
+) (c:/texlive/2020/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+ (c:/texlive/2020/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+)) (c:/texlive/2020/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\l__ctex_tmp_int=\count172
+\l__ctex_tmp_box=\box46
+\l__ctex_tmp_dim=\dimen134
+\g__ctex_section_depth_int=\count173
+\g__ctex_font_size_int=\count174
+ (c:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2019/05/29 v2.4.16 Option configuration file (CTEX)
+) (c:/texlive/2020/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@chapter=\count176
+\c@section=\count177
+\c@subsection=\count178
+\c@subsubsection=\count179
+\c@paragraph=\count180
+\c@subparagraph=\count181
+\c@figure=\count182
+\c@table=\count183
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen135
+) (c:/texlive/2020/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+File: ctex-engine-pdftex.def 2019/05/29 v2.4.16 (pdf)LaTeX adapter (CTEX)
+ (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+Package: CJKutf8 2015/04/18 4.8.4
+ (c:/texlive/2020/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+ (c:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)) (c:/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+) (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2015/04/18 4.8.4
+ (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2015/04/18 4.8.4
+) (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2015/04/18 4.8.4
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box47
+) (c:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)) (c:/texlive/2020/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count184
+\CJKpunct@cntb=\count185
+\CJKpunct@cntc=\count186
+\CJKpunct@cntd=\count187
+\CJKpunct@cnte=\count188
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+ (c:/texlive/2020/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa)) (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+Package: CJKspace 2015/04/18 3.8.0
+) (c:/texlive/2020/texmf-dist/tex/latex/ctex/ctexspa.def
+File: ctexspa.def 2019/05/29 v2.4.16 Space info for CJKpunct (CTEX)
+) (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+Package: CJKfntef 2015/04/18 4.8.4
+ (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJKulem.sty
+Package: CJKulem 2015/04/18 4.8.4
+ (c:/texlive/2020/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box48
+\UL@hyphenbox=\box49
+\UL@skip=\skip49
+\UL@hook=\toks17
+\UL@height=\dimen136
+\UL@pe=\count189
+\UL@pixel=\dimen137
+\ULC@box=\box50
+Package: ulem 2019/11/18
+\ULdepth=\dimen138
+)
+\UL@lastkern=\dimen139
+\CJK@skip=\skip50
+)
+\CJK@fntefSkip=\skip51
+\CJK@nest=\count190
+\CJK@fntefDimen=\dimen140
+\CJK@underdotBox=\box51
+\CJK@ULbox=\box52
+\CJK@underanyskip=\dimen141
+)
+\ccwd=\dimen142
+\l__ctex_ccglue_skip=\skip52
+)
+\l__ctex_ziju_dim=\dimen143
+ (c:/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2019/04/07 v2.7 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count191
+\l__zhnum_byte_min_int=\count192
+\l__zhnum_byte_max_int=\count193
+ (c:/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2019/04/07 v2.7 Chinese numerals with UTF8 encoding
+))
+\l__ctex_heading_skip=\skip53
+ (c:/texlive/2020/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-book.def
+File: ctex-scheme-chinese-book.def 2019/05/29 v2.4.16 Chinese scheme for book (CTEX)
+ (c:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2019/05/29 v2.4.16 Caption with encoding UTF8 (CTEX)
+)) (c:/texlive/2020/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2019/05/29 v2.4.16 Windows fonts definition (CTEX)
+ (c:/texlive/2020/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windowsnew.def
+File: ctex-fontset-windowsnew.def 2019/05/29 v2.4.16 Windows fonts definition for Vista or later version (CTEX)
+ (c:/texlive/2020/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+File: zhwindowsfonts.tex 2019/05/29 v2.4.16 Windows font map loader for pdfTeX and DVIPDFMx (CTEX)
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{UGBK.sfd}{Unicode.sfd})))) (c:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2019/05/29 v2.4.16 Configuration file (CTEX)
+) (c:/texlive/2020/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip54
+\aftertitleunit=\skip55
+\ttl@plus=\dimen144
+\ttl@minus=\dimen145
+\ttl@toksa=\toks18
+\titlewidth=\dimen146
+\titlewidthlast=\dimen147
+\titlewidthfirst=\dimen148
+) (c:/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) (c:/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen149
+\Gm@wd@mp=\dimen150
+\Gm@odd@mp=\dimen151
+\Gm@even@mp=\dimen152
+\Gm@layoutwidth=\dimen153
+\Gm@layoutheight=\dimen154
+\Gm@layouthoffset=\dimen155
+\Gm@layoutvoffset=\dimen156
+\Gm@dimlist=\toks20
+) (c:/texlive/2020/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks21
+\MT@count=\count197
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen157
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count198
+ (c:/texlive/2020/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip56
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (c:/texlive/2020/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+)) (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen158
+\Gin@req@width=\dimen159
+) (c:/texlive/2020/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+) (c:/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
+\f@nch@headwidth=\skip57
+\f@nch@O@elh=\skip58
+\f@nch@O@erh=\skip59
+\f@nch@O@olh=\skip60
+\f@nch@O@orh=\skip61
+\f@nch@O@elf=\skip62
+\f@nch@O@erf=\skip63
+\f@nch@O@olf=\skip64
+\f@nch@O@orf=\skip65
+) (c:/texlive/2020/texmf-dist/tex/latex/clrscode3e/clrscode3e.sty
+Package: clrscode3e 
+\c@codelinenumber=\count199
+\c@indent=\count266
+\digitwidth=\skip66
+\savecode=\box54
+\codeboxwidth=\skip67
+\c@thisindent=\count267
+) (c:/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip68
+\enit@outerparindent=\dimen160
+\enit@toks=\toks22
+\enit@inbox=\box55
+\enit@count@id=\count268
+\enitdp@description=\count269
+)
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: 
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 443.57848pt, 85.35826pt)
+* v-part:(T,H,B)=(42.67912pt, 709.61174pt, 42.67912pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=443.57848pt
+* \textheight=709.61174pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-61.46466pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=116.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+File: UTF8.bdg 2015/04/18 4.8.4
+) (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+) (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+) (e:/work/latex/algorithms/RedBlackTree/red_black.aux
+
+LaTeX Warning: Label `red_black_tree_sample1' multiply defined.
+
+
+LaTeX Warning: Label `red_black_delete_cases' multiply defined.
+
+
+LaTeX Warning: Label `red_black_tree_sample1' multiply defined.
+
+)
+\openout1 = `red_black.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 50.
+ (c:/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 50.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 443.57848pt, 85.35826pt)
+* v-part:(T,H,B)=(42.67912pt, 709.61174pt, 42.67912pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=443.57848pt
+* \textheight=709.61174pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-61.46466pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=116.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \microtypecontext on input line 50.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+LaTeX Info: Redefining \showhyphens on input line 50.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+(c:/texlive/2020/texmf-dist/tex/latex/microtype/mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+) (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count270
+\scratchdimen=\dimen161
+\scratchbox=\box56
+\nofMPsegments=\count271
+\nofMParguments=\count272
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count273
+\MPscratchDim=\dimen162
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
+\everyMPtoPDFconversion=\toks24
+) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\big@size=\dimen163
+
+第一章
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 69.
+(c:/texlive/2020/texmf-dist/tex/latex/ctex/fd/c70rm.fd
+File: c70rm.fd 2019/05/29 v2.4.16 Chinese font definition (CTEX)
+)
+Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (quanjiao) on input line 69.
+<rb_sample.png, id=3, 1004.25188pt x 478.03593pt>
+File: rb_sample.png Graphic file (type png)
+<use rb_sample.png>
+Package pdftex.def Info: rb_sample.png  used on input line 75.
+(pdftex.def)             Requested size: 266.14978pt x 126.6935pt.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 86.
+ (c:/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ztmcm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 86.
+ (c:/texlive/2020/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 86.
+ (c:/texlive/2020/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 86.
+ (c:/texlive/2020/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
+ [1
+
+
+
+ <e:/work/latex/algorithms/RedBlackTree/rb_sample.png>]
+<rb-rotate.png, id=19, 1324.95pt x 370.38374pt>
+File: rb-rotate.png Graphic file (type png)
+<use rb-rotate.png>
+Package pdftex.def Info: rb-rotate.png  used on input line 102.
+(pdftex.def)             Requested size: 266.14978pt x 74.39757pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 13.59999pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[2 <e:/work/latex/algorithms/RedBlackTree/rb-rotate.png>]
+<vector/red-black-tree/insert/rb_insert_violated_cases.pdf, id=24, 322.89447pt x 105.50365pt>
+File: vector/red-black-tree/insert/rb_insert_violated_cases.pdf Graphic file (type pdf)
+<use vector/red-black-tree/insert/rb_insert_violated_cases.pdf>
+Package pdftex.def Info: vector/red-black-tree/insert/rb_insert_violated_cases.pdf  used on input line 172.
+(pdftex.def)             Requested size: 354.86412pt x 115.95615pt.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 183.
+ [3 <e:/work/latex/algorithms/RedBlackTree/vector/red-black-tree/insert/rb_insert_violated_cases.pdf>]
+<vector/red-black-tree/insert/rb_insert_fix_cases.pdf, id=52, 321.98961pt x 390.2761pt>
+File: vector/red-black-tree/insert/rb_insert_fix_cases.pdf Graphic file (type pdf)
+<use vector/red-black-tree/insert/rb_insert_fix_cases.pdf>
+Package pdftex.def Info: vector/red-black-tree/insert/rb_insert_fix_cases.pdf  used on input line 207.
+(pdftex.def)             Requested size: 354.86412pt x 430.1447pt.
+ [4 <e:/work/latex/algorithms/RedBlackTree/vector/red-black-tree/insert/rb_insert_fix_cases.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 244--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--260
+
+ []
+
+
+Overfull \hbox (143.21077pt too wide) in paragraph at lines 296--296
+| [] 
+ []
+
+[5
+
+]
+<vector/red-black-tree/delete/delete_cases.pdf, id=88, 380.80672pt x 252.0033pt>
+File: vector/red-black-tree/delete/delete_cases.pdf Graphic file (type pdf)
+<use vector/red-black-tree/delete/delete_cases.pdf>
+Package pdftex.def Info: vector/red-black-tree/delete/delete_cases.pdf  used on input line 369.
+(pdftex.def)             Requested size: 443.57848pt x 293.55833pt.
+ [6
+
+ <e:/work/latex/algorithms/RedBlackTree/vector/red-black-tree/delete/delete_cases.pdf>]
+<vector/red-black-tree/delete/delete_cases2.pdf, id=113, 368.98257pt x 264.83824pt>
+File: vector/red-black-tree/delete/delete_cases2.pdf Graphic file (type pdf)
+<use vector/red-black-tree/delete/delete_cases2.pdf>
+Package pdftex.def Info: vector/red-black-tree/delete/delete_cases2.pdf  used on input line 378.
+(pdftex.def)             Requested size: 443.57848pt x 318.39024pt.
+ [7 <e:/work/latex/algorithms/RedBlackTree/vector/red-black-tree/delete/delete_cases2.pdf>]
+<vector/red-black-tree/delete/fixup-cases.pdf, id=139, 393.39113pt x 348.33899pt>
+File: vector/red-black-tree/delete/fixup-cases.pdf Graphic file (type pdf)
+<use vector/red-black-tree/delete/fixup-cases.pdf>
+Package pdftex.def Info: vector/red-black-tree/delete/fixup-cases.pdf  used on input line 413.
+(pdftex.def)             Requested size: 443.57848pt x 392.78928pt.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 419.
+ (c:/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [8 <e:/work/latex/algorithms/RedBlackTree/vector/red-black-tree/delete/fixup-cases.pdf>]
+Overfull \hbox (4.55138pt too wide) in paragraph at lines 430--430
+|[]\OT1/ptm/b/n/12 Detailed ex-pla-na-tion for the cases in the while loop of the pro-ce-dure \OT1/ptm/m/sc/12 (-20) RB-DELETE-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 432--442
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--454
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--462
+
+ []
+
+[9]
+第二章
+<vector/red-black-tree/delete/rb_delete_cases_single.pdf, id=655, 157.45726pt x 289.84962pt>
+File: vector/red-black-tree/delete/rb_delete_cases_single.pdf Graphic file (type pdf)
+<use vector/red-black-tree/delete/rb_delete_cases_single.pdf>
+Package pdftex.def Info: vector/red-black-tree/delete/rb_delete_cases_single.pdf  used on input line 524.
+(pdftex.def)             Requested size: 159.68776pt x 293.96205pt.
+[10
+
+ <e:/work/latex/algorithms/RedBlackTree/vector/red-black-tree/delete/rb_delete_cases_single.pdf>] (e:/work/latex/algorithms/RedBlackTree/red_black.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 9076 strings out of 480608
+ 167325 string characters out of 5907536
+ 444599 words of memory out of 5000000
+ 24544 multiletter control sequences out of 15000+600000
+ 578524 words of font info for 197 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,10n,59p,870b,427s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>{c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/symbol/usyr.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on e:/work/latex/algorithms/RedBlackTree/red_black.pdf (10 pages, 616256 bytes).
+PDF statistics:
+ 967 PDF objects out of 1000 (max. 8388607)
+ 612 compressed objects within 7 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 28813 words of extra memory for PDF output out of 29859 (max. 10000000)
+
